@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Myself:
 Hello there! 👋 My name is Marva, I’m currently pursuing a degree at Binus University 🎓. I’m passionate about technology and have been focusing on Flutter and Fullstack Web development 💻📱. I’m also eager to explore the world of machine learning and its applications 🧠🤖. I’m always on the lookout for innovative tech solutions and love collaborating on exciting projects 💡🤝. As a fun fact, my current way of refreshing myself is by playing at haunted houses 👻. I’m from the city of Yogyakarta and I’m excited to connect with like-minded individuals. Let’s work together and create something amazing! 🚀
 
 ## 🌐 My Social Media:
