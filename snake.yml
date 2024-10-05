@@ -1,0 +1,16 @@
+name: Generate GitHub Snake
+on:
+  schedule:
+    - cron: '0 0 * * 1' # Run every Monday at midnight
+  workflow_dispatch:
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: Platane/snk@master
+        with:
+          username: marvaproject # Replace with your GitHub username
+          color: green # Choose your desired color
+          output: gif # Output format (gif or svg)
