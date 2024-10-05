@@ -22,12 +22,12 @@ My name is **Marva**, Iâ€™m currently pursuing a degree at **Binus University ðŸ
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="10%"/></div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="23"/> My GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=marvaproject&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=marvaproject&theme=radical&no-frame=false&no-bg=false&margin-w=4"/></div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Writing%20Hand.webp" alt="Writing Hand" width="25"/> Dev Quote of the Day
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Top%20Arrow.webp" alt="Top Arrow" width="25"/> My Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=marvaproject&limit=5&theme=nightowl&combine_all_yearly_contributions=true)
+<div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=marvaproject&limit=5&theme=nightowl&combine_all_yearly_contributions=true"/></div>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
