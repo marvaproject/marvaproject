@@ -16,9 +16,9 @@ My name is **Marva**, Iâ€™m currently pursuing a degree at **Binus University ğŸ
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25"/> My GitHub Stats :
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=marvaproject&theme=nightowl&hide_border=false" width="100%"/>
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marvaproject&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" width="55%">
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=marvaproject&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true" width="55%"> &nbsp; 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marvaproject&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="43.5%"></div>
-<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marvaproject&theme=nightowl&hide_border=true" width="58.5%"><img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marvaproject&theme=nightowl&utcOffset=8" width="39.5%"/>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=marvaproject&theme=nightowl&hide_border=true" width="59%"> &nbsp; <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=marvaproject&theme=nightowl&utcOffset=8" width="39.7%"/>
 </div>
 
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="10%"/></div>
