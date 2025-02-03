@@ -34,6 +34,4 @@ My name is **Marva**, Iâ€™m currently pursuing a degree at **Binus University ğŸ
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Top%20Arrow.webp" alt="Top Arrow" width="25"/> My Top Contributed Repo
 <div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=marvaproject&limit=5&theme=nightowl&hide_border=true&combine_all_yearly_contributions=true" width="52%" align="left"/><img src="https://github.com/user-attachments/assets/ffba1db0-b1a8-4cf8-90a8-b04edca2506e" width="46%" align="right"/></div>
 
-<p> &nbsp;</p>
-
-<div align="center"><img src="https://github.com/user-attachments/assets/3ee23831-adcb-477b-a3ba-8f6217846946" width="15%"/></div>
+<!-- <div align="center"><img src="https://github.com/user-attachments/assets/3ee23831-adcb-477b-a3ba-8f6217846946" width="15%"/></div> -->
