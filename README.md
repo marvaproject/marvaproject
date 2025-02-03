@@ -1,4 +1,4 @@
-# Konnichiwa! <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="50"/> <img src="https://visitcount.itsvg.in/api?id=marvaproject&icon=9&color=1" align="right"/>
+# Konnichiwa! <img src="https://user-images.githubusercontent.com/74038190/241763891-7bb1e704-6026-48f9-8435-2f4d40101348.gif" width="50"/> <a href="https://saweria.co/marvaathatillah" target="_blank"> <img src="https://img.shields.io/badge/Bayarin_parkir_bang-ffee8c?style=for-the-badge&logo=yamahacorporation&logoColor=black" align="right" /></a>
 
 <img src="https://user-images.githubusercontent.com/74038190/216655846-93807a43-d6e8-448a-bf19-799b5e8c1c0a.gif" width="22%" align="right"/>
 
