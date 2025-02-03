@@ -24,13 +24,15 @@ My name is **Marva**, Iâ€™m currently pursuing a degree at **Binus University ðŸ
 <div align="center"><img src="https://user-images.githubusercontent.com/74038190/226127923-0e8b7792-7b3c-462b-951b-63c96ba1a5af.gif" width="10%"/></div>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Trophy.webp" alt="Trophy" width="23"/> My GitHub Trophies
-<div align="center"><img src="https://github-profile-trophy.vercel.app/?username=marvaproject&theme=radical&no-frame=false&no-bg=false&margin-w=4"/></div>
+<div align="left"><img src="https://github-profile-trophy.vercel.app/?username=marvaproject&theme=radical&no-frame=false&no-bg=false&margin-w=4"/></div>
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Writing%20Hand.webp" alt="Writing Hand" width="25"/> Dev Quote of the Day
 <div align="center"><img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/></div>
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Top%20Arrow.webp" alt="Top Arrow" width="25"/> My Top Contributed Repo
-<div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=marvaproject&limit=5&theme=nightowl&hide_border=true&combine_all_yearly_contributions=true" width="60%"/></div>
+<div align="center"><img src="https://github.com/user-attachments/assets/23e9356b-1aa1-4bdb-a0f8-8843768d607c" width="15%"/></div>
 
-<br/>
-<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="100%"/>
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Top%20Arrow.webp" alt="Top Arrow" width="25"/> My Top Contributed Repo
+<div align="center"><img src="https://github-contributor-stats.vercel.app/api?username=marvaproject&limit=5&theme=nightowl&hide_border=true&combine_all_yearly_contributions=true" width="52%" align="left"/><img src="https://github.com/user-attachments/assets/ffba1db0-b1a8-4cf8-90a8-b04edca2506e" width="46%" align="right"/></div>
+
+<p>&nbsp;</p>
+<div align="center"><img src="https://github.com/user-attachments/assets/3ee23831-adcb-477b-a3ba-8f6217846946" width="15%"/></div>
