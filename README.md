@@ -4,24 +4,6 @@
 
 My name is **Marva**, I’m currently pursuing a degree at **Binus University 🎓**. I’m passionate about technology and have been focusing on Flutter and Fullstack Web development 💻📱. I’m also eager to explore the world of machine learning and its applications 🧠🤖. I’m always on the lookout for innovative tech solutions and love collaborating on exciting projects 💡🤝. As a fun fact, my current way of refreshing myself is by playing at haunted houses 👻. I’m from the city of Yogyakarta and I’m excited to connect with like-minded individuals. Let’s work together and create something amazing! 🚀
 
-<div align="center" style="
-  background:#0d1117;
-  padding:20px;
-  border-radius:16px;
-  width:90%;
-  color:white;
-  font-family:ui-monospace;
-">
-  <h3>📊 My GitHub Overview</h3>
-  <table>
-    <tr><td>⭐ Stars Received</td><td><b>128</b></td></tr>
-    <tr><td>🔁 Forks</td><td><b>14</b></td></tr>
-    <tr><td>🧑‍💻 Commits This Year</td><td><b>1,412</b></td></tr>
-    <tr><td>📂 Public Repos</td><td><b>54</b></td></tr>
-  </table>
-</div>
-
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25"/> My Social Media :
 [![My Bio](https://img.shields.io/badge/My%20Bio-255E63?style=flat&logo=About.me&logoColor=white)](https://ahnafeanzs.carrd.co) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/marva.athatilah.5) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ahnafeanzs_) [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/ahnafeanzs) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@ahnafeanzs) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/ahnafeanzs) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/marvaathatillah) [![Threads](https://img.shields.io/badge/Threads-000000?logo=Threads&logoColor=white)](https://www.threads.net/@ahnafeanzs_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/marvaathatillah) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@ahnafmarva) [![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89.svg?logo=Dribbble&logoColor=white)](https://dribbble.com/AhnafeanzsUI) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ahnafeanzs) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Marva-Athatillah) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Savings-Green-129) [![Dev.to blog](https://img.shields.io/badge/Dev.to-0A0A0A?logo=dev.to&logoColor=white)](https://dev.to/ahnafeanzspro) [![Stack Overflow](https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16729366) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@ahnafeanzs2444) [![Spotify](https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white)](https://open.spotify.com/user/31zy7e52mka3rjcayyrkfksaaeom/)
 
