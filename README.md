@@ -4,6 +4,22 @@
 
 My name is **Marva**, I’m currently pursuing a degree at **Binus University 🎓**. I’m passionate about technology and have been focusing on Flutter and Fullstack Web development 💻📱. I’m also eager to explore the world of machine learning and its applications 🧠🤖. I’m always on the lookout for innovative tech solutions and love collaborating on exciting projects 💡🤝. As a fun fact, my current way of refreshing myself is by playing at haunted houses 👻. I’m from the city of Yogyakarta and I’m excited to connect with like-minded individuals. Let’s work together and create something amazing! 🚀
 
+<div align="center" style="
+  background:#0d1117;
+  padding:20px;
+  border-radius:16px;
+  width:90%;
+  color:white;
+  font-family:ui-monospace;
+">
+  <h3>📊 My GitHub Overview</h3>
+  <table>
+    <tr><td>⭐ Stars Received</td><td><b>128</b></td></tr>
+    <tr><td>🔁 Forks</td><td><b>14</b></td></tr>
+    <tr><td>🧑‍💻 Commits This Year</td><td><b>1,412</b></td></tr>
+    <tr><td>📂 Public Repos</td><td><b>54</b></td></tr>
+  </table>
+</div>
 
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25"/> My Social Media :
